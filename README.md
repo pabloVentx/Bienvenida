@@ -16,8 +16,8 @@
 
 <br>
 <div align="center">
-<h1>Sobre mi 🤔​</h1>
-  <p>Aquí una lista de cosas sobre lo que me gusta o hago:</p>
+<h1>Un Resumen acerca de mi 🤔​</h1>
+  <p>Aquí una lista de cosas sobre lo que me gusta de este campo y lo que hago:</p>
   <br>
 <p>• 𝗠𝗲 𝗴𝘂𝘀𝘁𝗮 𝗲𝗹 𝗺𝘂𝗻𝗱𝗼 𝗱𝗲 𝗹𝗮 𝗖𝗶𝗯𝗲𝗿𝘀𝗲𝗴𝘂𝗿𝗶𝗱𝗮𝗱 𝘆 𝗱𝗲 𝗰𝗼́𝗺𝗼 𝗳𝘂𝗻𝗰𝗶𝗼𝗻𝗮.</p>
 <p>• 𝗦𝗼𝘆 𝗥𝗲𝗱 𝗧𝗲𝗮𝗺, 𝗺𝗲 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝗮 𝗲𝗹 𝗣𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝘀𝘂𝘀 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀 𝘆 𝗽𝗲𝗻𝘀𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 𝗮𝗰𝗲𝗿𝗰𝗮 𝗱𝗲𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴.</p>
