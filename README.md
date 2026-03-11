@@ -2,7 +2,7 @@
 <h2> 𝐁𝐮𝐞𝐧𝐚𝐬 😳</h2>
 <p>𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨𝐬 𝐚 𝐦𝐢 𝐩𝐞𝐫𝐟𝐢𝐥 𝐝𝐞 𝐆𝐢𝐭𝐇𝐮𝐛 𝐬𝐨𝐛𝐫𝐞 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐄𝐭𝐢𝐜𝐨 𝐞 𝐂𝐢𝐛𝐞𝐫𝐬𝐞𝐠𝐮𝐫𝐢𝐝𝐚𝐝.</p>
 <br>
-<p>En mi Perfil, compartire proyectos o ayudas si se da el caso. Principalmente me gustaría subir todo lo que vaya surgiendo a mi repositorio de Github Pages</p>
+<p>En mi Perfil, compartire proyectos o ayudas si se da el caso. Principalmente me gustaría subir todo lo que vaya surgiendo a mi repositorio de Github Pages, así mismo sobre quien soy y mis futuras metas en este campo, compartiendo mi progreso en cuanto a certificaciones respecta.</p>
 </div>
 
 <div align="center">
@@ -10,14 +10,8 @@
 
 <hr>
 <br>
-
-<div align="right">
-<img src="https://github.com/user-attachments/assets/e60546b6-9429-4c96-9dcb-6fca79dbb3be" height="200" width="300"/>
-
-<br>
 <div align="center">
 <h1>Un Resumen acerca de mi 🤔​</h1>
-  <p>Aquí una lista de cosas sobre lo que me gusta de este campo y lo que hago:</p>
   <br>
 <p>• 𝗠𝗲 𝗴𝘂𝘀𝘁𝗮 𝗲𝗹 𝗺𝘂𝗻𝗱𝗼 𝗱𝗲 𝗹𝗮 𝗖𝗶𝗯𝗲𝗿𝘀𝗲𝗴𝘂𝗿𝗶𝗱𝗮𝗱 𝘆 𝗱𝗲 𝗰𝗼́𝗺𝗼 𝗳𝘂𝗻𝗰𝗶𝗼𝗻𝗮.</p>
 <p>• 𝗦𝗼𝘆 𝗥𝗲𝗱 𝗧𝗲𝗮𝗺, 𝗺𝗲 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝗮 𝗲𝗹 𝗣𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴, 𝘀𝘂𝘀 𝗵𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀 𝘆 𝗽𝗲𝗻𝘀𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 𝗮𝗰𝗲𝗿𝗰𝗮 𝗱𝗲𝗹 𝗛𝗮𝗰𝗸𝗶𝗻𝗴.</p>
